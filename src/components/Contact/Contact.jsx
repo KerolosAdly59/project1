@@ -1,5 +1,5 @@
 import React from 'react'
-import style from "./contact.module.css"
+import style from "./Contact.module.css"
 const Contact = () => {
   return (
     <div className={`${style.contact}  text-white d-flex flex-wrap align-items-center justify-content-center`}>
