@@ -1,0 +1,36 @@
+.contact h1.title ,.line
+{
+    color: rgb(44, 62, 80);
+}
+.contact span
+{
+    background-color: rgb(44, 62, 80);
+    border-radius: 5px;
+    height: 5px;
+}
+.contact i
+{
+    font-size: 25px;
+}
+
+.contact input
+{
+    border: none ;
+    border-bottom:1px solid gray !important ;
+    box-shadow: none !important;
+    border-radius: 0px ;
+    padding-bottom: 7px;
+}
+.contact form button
+{
+    background-color: rgb(26, 188, 156);
+}
+
+.contact
+{
+    min-height: 90vh;
+}
+.contact .line
+{
+    width: 35%;
+}

@@ -1,0 +1,27 @@
+footer ul 
+{
+    list-style: none !important;
+    
+}
+footer
+{
+        background-color: rgb(44, 62, 80) ;
+        color: white;
+
+}
+footer li 
+{
+    border: white solid 2px;
+    border-radius: 25px;
+    padding: 5px;
+    margin-inline: 3px ;
+}
+footer li i
+{
+        font-size:20px;
+
+}
+footer .capy
+{
+    background-color: #1A252F;
+}

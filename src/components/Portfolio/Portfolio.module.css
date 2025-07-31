@@ -1,0 +1,39 @@
+
+
+.portfolio .line span
+{
+    background-color: rgb(44, 62, 80);
+    height: 5px;
+    border-radius: 5px;
+}
+
+.portfolio .title
+{
+    color:rgb(44, 62, 80) ;
+}
+.portfolio .row img
+{
+    border-radius: 10px;
+}
+.portfolio .content
+{
+    cursor: pointer;
+ 
+
+}
+.portfolio .background 
+{
+    background-color: rgba(26, 188, 156 , 0.8);
+    border-radius: 10px;
+    visibility: hidden;
+    opacity: 0;
+    transition:opacity 0.8s ;
+}
+.portfolio .content:hover .background
+{
+    visibility: visible;
+    opacity: 1;
+    
+
+}
+
